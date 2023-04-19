@@ -1,6 +1,11 @@
 ### Hi there, I'm Vanja Sretenovic 👋
 
 #### About Me
+
+  - 📅 Date of birth: 02.06.2000
+  - 💻 I'm experienced in designing and developing software and applications, with a track record of successful implementations.
+  - 🌐 I enjoy collaborating on open-source projects and contributing to the tech community.
+
 I was born in Čačak, Serbia on 02.06.2000. I'm a passionate software engineer with a love for software and system architecture. Currently pursuing a degree in Information Technologies at the Faculty of Technical Sciences in Čačak. Experienced in designing and developing software and applications, with a track record of successful implementations.
 
 - 🔭 I’m currently working on Node Load Balancer in NodeJs and ReactJs
