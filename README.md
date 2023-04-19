@@ -1,4 +1,4 @@
-### Hi there, I'm Vanja Sretenovic 👋
+### Hi there, I'm Vanja Sretenović 👋
 
 #### About Me
 
