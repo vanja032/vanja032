@@ -54,27 +54,27 @@ I was born in Čačak, Serbia on 02.06.2000. I'm a passionate software engineer 
 - ***FON Hackaton (2023)*** - Created blockchain mobile app in React-Native, NodeJS, C++, blockchain clusters and smart contracts with a team. Theme well-being
 
 #### Skills
-- C#
-- C++
-- Python
-- Bash
-- NodeJS
-- PHP
-- JavaScript
-- Laravel
-- Java
-- Kotlin
-- JQuery
-- Client-server architecture
-- Tcp and Udp sockets
-- Linux servers
-- APIs
-- SSH
-- Git
-- Data security and encryption
-- SQL and No SQL databases (MySql, MongoDB, Redis, Postgres)
-- React
-- TypeScript
+- ***C#***
+- ***C++***
+- ***Python***
+- ***Bash***
+- ***NodeJS***
+- ***PHP***
+- ***JavaScript***
+- ***Laravel***
+- ***Java***
+- ***Kotlin***
+- ***JQuery***
+- ***Client-server architecture***
+- ***Tcp and Udp sockets***
+- ***Linux servers***
+- ***APIs***
+- ***SSH***
+- ***Git***
+- ***Data security and encryption***
+- ***SQL and No SQL databases (MySql, MongoDB, Redis, Postgres)***
+- ***React***
+- ***TypeScript***
 
 
 <!--
