@@ -61,6 +61,11 @@ I was born in Čačak, Serbia on 02.06.2000. I'm a passionate software engineer 
 - TypeScript
 
 
+### Current main project
+
+##### 🔗 Node Load Balancer: [https://github.com/vanja032/Load_Balancer]
+![Node Load Balancer](https://raw.githubusercontent.com/vanja032/Load_Balancer/main/Screens/Screen_02.png)
+
 <!--
 **vanja032/vanja032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
