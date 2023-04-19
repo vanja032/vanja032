@@ -1,6 +1,4 @@
-### Hi there, I'm Vanja Sretenović 👋
-
-
+### Hi, I'm Vanja Sretenović 👋
 
 
 ### Current main project
