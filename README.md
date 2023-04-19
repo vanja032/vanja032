@@ -1,7 +1,9 @@
 ### Hi, I'm Vanja Sretenović 👋
+#### Welcome to my Github page
 
+#### Contact me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanja-sretenovic-ca)](https://www.linkedin.com/in/vanja-sretenovic-ca)
-[![PDF CV](https://img.shields.io/badge/-PDF%20CV-red?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white&link=YOUR_LINK_HERE)](YOUR_LINK_HERE)
+[![PDF CV](https://img.shields.io/badge/-PDF%20CV-red?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white&link=https://github.com/vanja032/vanja032/blob/main/Vanja_Sretenovic-backend_developer.pdf)](https://github.com/vanja032/vanja032/blob/main/Vanja_Sretenovic-backend_developer.pdf)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vanja_7777)](https://www.instagram.com/vanja_7777)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sretenovic.vanja32@gmail.com)](mailto:sretenovic.vanja32@gmail.com)
 
@@ -35,7 +37,7 @@ I was born in Čačak, Serbia on 02.06.2000. I'm a passionate software engineer 
 - Internship at ICraft Čačak, mobile apps, 2019 (June) - 2019 (July) - C, C++
 - Worked at Parking Servis Čačak, web systems, 2018 (January) - 2018 (August) - PHP, MySql, JavaScript, Linux servers
 
-#### Projects
+#### Main Projects
 - [Node Load Balancer (2023)](https://github.com/vanja032/Load_Balancer) - NodeJS, Clusters, Http-Proxy, IPC, React, TypeScript, Real-time sockets (SocketIO)
 - [Trading bot on Binance crypto exchange (2023)](https://github.com/vanja032/TradingBot) - Python, Python-Binance library
 - [NodeJS RPC and RestFull APIs server (2023)](https://github.com/vanja032/BackendServer) - NodeJS, SSH, AES encryption
