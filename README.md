@@ -3,6 +3,10 @@
 #### About Me
 I was born in Čačak, Serbia on 02.06.2000. I'm a passionate software engineer with a love for software and system architecture. Currently pursuing a degree in Information Technologies at the Faculty of Technical Sciences in Čačak. Experienced in designing and developing software and applications, with a track record of successful implementations.
 
+- 🔭 I’m currently working on Node Load Balancer in NodeJs and ReactJs
+- 🌱 I’m currently learning NodeJs, ReactJs and TypeScript
+- 💬 Ask me about my projects
+
 #### Education
 - Faculty of Technical Sciences Čačak, department Information technologies 2019 - present (9.42)
 - Secondary technical school Čačak, department Information technologies 2015 - 2019 (5.0)
