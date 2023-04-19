@@ -1,4 +1,4 @@
-### Hi, I'm Vanja Sretenović 👋
+## Hi, I'm Vanja Sretenović 👋
 #### Welcome to my Github page
 
 #### Contact me
