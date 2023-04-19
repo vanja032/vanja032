@@ -18,7 +18,7 @@
 
 #### About Me
 
-  - 📅 Date of birth: 02.06.2000
+  - 📅 Date of birth: 02.06.2000.
   - 💻 I'm experienced in designing and developing software and applications, with a track record of successful implementations.
   - 🌐 I enjoy collaborating on open-source projects and contributing to the tech community.
 
