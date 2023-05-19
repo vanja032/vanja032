@@ -52,6 +52,7 @@ I was born in Čačak, Serbia on 02.06.2000. I'm a passionate software engineer 
 
 #### Events
 - ***FON Hackaton (2023)*** - Created blockchain mobile app in React-Native, NodeJS, C++, blockchain clusters and smart contracts with a team. Theme well-being
+- ***TMRW Conference Workshop Speaker*** - Presented a blockchain multi-model decentralized database solution at Tomorrow Conference
 
 #### Skills
 - ***C#***
