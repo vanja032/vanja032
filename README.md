@@ -29,13 +29,13 @@ I was born in Čačak, Serbia on 02.06.2000. I'm a passionate software engineer 
 - 💬 Contact me about my projects on the [Linkedin](https://www.linkedin.com/in/vanja-sretenovic-ca/) or send me [Email](mailto:sretenovic.vanja32@gmail.com)
 
 #### Education
-- Faculty of Technical Sciences Čačak, department Information technologies 2019 - present (9.42)
-- Secondary technical school Čačak, department Information technologies 2015 - 2019 (5.0)
+- ***Faculty of Technical Sciences Čačak***, department Information technologies 2019 - present (9.42)
+- ***Secondary technical school Čačak***, department Information technologies 2015 - 2019 (5.0)
 
 #### Work Experience
-- Work at Inery, blockchain systems, 2022 (July) - present - C++, Python, Bash, Linux servers, C#, MySql, MongoDB, Blockchain database
-- Internship at ICraft Čačak, mobile apps, 2019 (June) - 2019 (July) - C, C++
-- Worked at Parking Servis Čačak, web systems, 2018 (January) - 2018 (August) - PHP, MySql, JavaScript, Linux servers
+- Work at ***Inery***, blockchain systems, 2022 (July) - present - C++, Python, Bash, Linux servers, C#, MySql, MongoDB, Blockchain database
+- Internship at ***ICraft*** Čačak, mobile apps, 2019 (June) - 2019 (July) - C, C++
+- Worked at ***Parking Servis*** Čačak, web systems, 2018 (January) - 2018 (August) - PHP, MySql, JavaScript, Linux servers
 
 #### Main Projects
 - [Node Load Balancer (2023)](https://github.com/vanja032/Load_Balancer) - NodeJS, Clusters, Http-Proxy, IPC, React, TypeScript, Real-time sockets (SocketIO)
