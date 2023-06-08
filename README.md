@@ -59,7 +59,7 @@ I was born in Čačak, Serbia on 02.06.2000. I'm a passionate software engineer 
 - ***C++***
 - ***Python***
 - ***Bash***
-- ***NodeJS***
+- ***NodeJs***
 - ***PHP***
 - ***JavaScript***
 - ***Laravel***
@@ -74,7 +74,8 @@ I was born in Čačak, Serbia on 02.06.2000. I'm a passionate software engineer 
 - ***Git***
 - ***Data security and encryption***
 - ***SQL and No SQL databases (MySql, MongoDB, Redis, Postgres)***
-- ***React***
+- ***ReactJs***
+- ***NextJs***
 - ***TypeScript***
 
 
