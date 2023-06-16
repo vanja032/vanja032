@@ -33,7 +33,7 @@ I was born in Čačak, Serbia on 02.06.2000. I'm a passionate software engineer 
 - ***Secondary technical school Čačak***, department Information technologies 2015 - 2019 (5.0)
 
 #### Work Experience
-- Work at ***Inery***, blockchain systems, 2022 (July) - present - C++, Python, Bash, Linux servers, C#, MySql, MongoDB, Blockchain database
+- Work at ***Inery***, blockchain systems, 2022 (July) - present - C++, Python, NodeJs, Bash, Linux servers, C#, MySql, MongoDB, Blockchain database
 - Internship at ***ICraft*** Čačak, mobile apps, 2019 (June) - 2019 (July) - C, C++
 - Worked at ***Parking Servis*** Čačak, web systems, 2018 (January) - 2018 (August) - PHP, MySql, JavaScript, Linux servers
 
