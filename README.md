@@ -69,6 +69,7 @@ I was born in Čačak, Serbia on 02.06.2000. I'm a passionate software engineer 
 - ***Client-server architecture***
 - ***Tcp and Udp sockets***
 - ***Linux servers***
+- ***Networking - Requests/Responses***
 - ***APIs***
 - ***SSH***
 - ***Git***
@@ -77,6 +78,9 @@ I was born in Čačak, Serbia on 02.06.2000. I'm a passionate software engineer 
 - ***ReactJs***
 - ***NextJs***
 - ***TypeScript***
+- ***AWS Lambda NodeJs***
+- ***AWS S3***
+- ***AWS DynamoDB***
 
 
 <!--
