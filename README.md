@@ -147,7 +147,8 @@ I’m a systems‑oriented developer from Čačak, Serbia, passionate about clea
 
 ##### Security
 
-- **_Data security and encryption_**
+- **_Data security and encryption (AES, RSA, ECDSA)_**
+- **_Kerberos authentication protocol (SSH and NodeJs Auth Server)_**
 
 ##### Hardware & Embedded
 
