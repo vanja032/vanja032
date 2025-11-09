@@ -74,7 +74,7 @@ I’m a systems‑oriented developer from Čačak, Serbia, passionate about clea
 
 #### Work Experience
 
-- Part‑time at **_EIK Europe DOO_**, race management solutions, 2025 (August) - present
+- Part‑time at **_EIK Europe DOO_**, race management solutions, 2025 (August) - present - Hardware-Software solutions and integrations
 - Work at **_Inery_**, blockchain systems, 2022 (July) - present - C++, Python, NodeJs, Bash, Linux servers, C#, MySql, MongoDB, Blockchain database
 - Internship at **_ICraft_** Čačak, mobile apps, 2019 (June) - 2019 (July) - C, C++
 - Worked at **_Parking Servis_** Čačak, web systems, 2018 (January) - 2018 (August) - PHP, MySql, JavaScript, Linux servers
