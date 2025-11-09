@@ -62,7 +62,6 @@
 
 I’m a systems‑oriented developer from Čačak, Serbia, passionate about clean architecture, performance, and end‑to‑end product delivery. I work on blockchain systems at Inery (C++), build hardware‑software solutions like the EIK Race Platform (Laravel + C# RFID), and lead full product lifecycles such as Octopullo (brand, marketing/SEO, and software). I am currently pursuing my Master’s degree in Software Engineering in addition to my BSc in Information Technologies at the Faculty of Technical Sciences in Čačak.
 
-- :hammer: Currently working on Node Load Balancer in NodeJs and ReactJs
 - :hammer: Currently working on flatpack-protocol — custom data packet transfer protocol (private for now, planned open‑source)
 - :book: Oriented toward C++, kernel, and low‑level engineering for private projects
 - 💬 Contact me about my projects on the [Linkedin](https://www.linkedin.com/in/vanja-sretenovic-ca/) or send me [Email](mailto:sretenovic.vanja32@gmail.com)
@@ -82,11 +81,11 @@ I’m a systems‑oriented developer from Čačak, Serbia, passionate about clea
 
 #### Main Projects
 
-- Flatpack (C++) — structures library (principal project)
-- Flatpack‑Archives (C++) — archival/serialization layer (principal project)
-- Blockchain chat app with smart contract (C++/Python/Bash/Java/Kotlin) — private blockchain cluster, AES encryption — [repo](https://github.com/vanja032/BlockchainChatApp)
-- Android/Kotlin Betting Platform (Private) — Kotlin app + NodeJS sockets/APIs for realtime betting and signal sharing
-- Race Platform (EIK Race) — Laravel backend + C# RFID hardware‑software solution (private codebase)
+- [Flatpack (2025)](https://github.com/vanja032/flatpack) — structures library in C++ stack (principal project)
+- [Flatpack‑Archive (2025)](https://github.com/vanja032/flatpack-archive) — archival/serialization layer in C++ (principal project)
+- Race Platform (EIK Race) (2025) — Laravel backend + C# RFID hardware‑software solution (private codebase) - https://eik-race.com
+- Android/Kotlin Betting Platform (Private) (2024) — Kotlin app + NodeJS sockets/APIs for realtime betting and signal sharing (private codebase)
+- [Blockchain chat app with smart contract (2023)](https://github.com/vanja032/BlockchainChatApp) — private blockchain cluster, AES encryption in C++/Python/Bash/Java/Kotlin stack
 - Octopullo — trip planning product from brand to production — https://octopullo.com
 - [Node Load Balancer (2023)](https://github.com/vanja032/Load_Balancer) - NodeJS, Clusters, Http-Proxy, IPC, React, TypeScript, Real-time sockets (SocketIO)
 - [Trading bot on Binance crypto exchange (2023)](https://github.com/vanja032/TradingBot) - Python, Python-Binance library
@@ -101,11 +100,13 @@ I’m a systems‑oriented developer from Čačak, Serbia, passionate about clea
 
 #### Events
 
-- **_FON Hackaton (2023)_** - Created blockchain mobile app in React-Native, NodeJS, C++, blockchain clusters and smart contracts with a team. Theme well-being
-- **_TMRW Conference Workshop Speaker (2023)_** - Presented a blockchain multi-model decentralized database solution at Tomorrow Conference
 - **_Jahorina Tech Conference (2024)_** - Presented a decentralized database solution
+- **_FON Hackaton (2023)_** - Created blockchain mobile app in React-Native, NodeJS, C++, blockchain clusters and Eosio smart contracts with a team. Theme "well-being"
+- **_TMRW Conference Workshop Speaker (2023)_** - Presented a blockchain multi-model decentralized database solution at Tomorrow Conference
 
 #### Skills
+
+##### Problem-solving skills
 
 ##### Software
 
@@ -155,6 +156,13 @@ I’m a systems‑oriented developer from Čačak, Serbia, passionate about clea
 - **_Hardware‑software integration (RFID timing, C#/.NET)_**
 - **_Arduino_**
 - **_ESP32 embedded development_**
+
+##### AI
+
+- **_OpenAI API_**
+- **_Cursor AI_**
+- **_ChatGPT_**
+- **_GrokAI_**
 
 ##### Product & Growth
 
