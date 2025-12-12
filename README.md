@@ -11,6 +11,12 @@
 
 ### Highlighted Projects
 
+- **Flatpack‑Protocol (Linux kernel, C)**
+
+  - Experimental kernel module handling a custom Ethernet EtherType for Flatpack
+  - Parses a compact 10‑byte header; exposes per‑CPU runtime stats via debugfs
+  - Repo: https://github.com/vanja032/flatpack-protocol
+
 - **Flatpack (C++)**
 
   - Core structures library; one of my principal projects
@@ -81,6 +87,7 @@ I’m a systems‑oriented developer from Čačak, Serbia, passionate about clea
 
 #### Main Projects
 
+- [Flatpack‑Protocol (2025)](https://github.com/vanja032/flatpack-protocol) — Linux kernel module handling a custom EtherType (10‑byte header), per‑CPU debugfs runtime stats
 - [Flatpack (2025)](https://github.com/vanja032/flatpack) — structures library in C++ stack (principal project)
 - [Flatpack‑Archive (2025)](https://github.com/vanja032/flatpack-archive) — archival/serialization layer in C++ (principal project)
 - Race Platform (EIK Race) (2025) — Laravel backend + C# RFID hardware‑software solution (private codebase) - https://eik-race.com
@@ -112,6 +119,7 @@ I’m a systems‑oriented developer from Čačak, Serbia, passionate about clea
 
 - **_C++_**
 - **_C#_**
+- **_C_**
 - **_Python_**
 - **_Java_**
 - **_Kotlin_**
@@ -161,6 +169,7 @@ I’m a systems‑oriented developer from Čačak, Serbia, passionate about clea
 
 - **_OpenAI API_**
 - **_Cursor AI_**
+- **_Google Antigravity_**
 - **_ChatGPT_**
 - **_GrokAI_**
 
@@ -170,6 +179,7 @@ I’m a systems‑oriented developer from Čačak, Serbia, passionate about clea
 
 #### CV Highlights
 
+- Flatpack‑Protocol — Linux kernel module for a custom EtherType with compact 10‑byte header and debugfs stats — https://github.com/vanja032/flatpack-protocol
 - Flatpack (C++) and Flatpack‑Archives (C++) — principal C++ projects
 - Race Platform (EIK Race) — Laravel + C# RFID hardware‑software solution
 - Octopullo — trip planning product from brand to production
