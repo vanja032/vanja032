@@ -110,6 +110,7 @@ I’m a systems‑oriented developer from Čačak, Serbia, passionate about clea
 - **_Jahorina Tech Conference (2024)_** - Presented a decentralized database solution
 - **_FON Hackaton (2023)_** - Created blockchain mobile app in React-Native, NodeJS, C++, blockchain clusters and Eosio smart contracts with a team. Theme "well-being"
 - **_TMRW Conference Workshop Speaker (2023)_** - Presented a blockchain multi-model decentralized database solution at Tomorrow Conference
+- **_Republic of Serbia Programming Competition (2017, 2018)_** - Belgrade
 
 #### Skills
 
